@@ -1,5 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Back-end | Métodos de Arrays
 
 ## Exercícios
@@ -10,14 +8,20 @@
 4. Fila de atendimento
 5. Fila de atendimento 2.0
 6. Encontrar dono do pet
-
----
-
-Preencha a checklist para fazer os exercícios:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
+7. Sistema para biblioteca
+8. Verificando limite de caracters
+9. Validando lista de compras
+10. Validação de numeros pares
+11. Filtro e validação de usuários
+12. Filtro de caracteres
+13. Busca de CEP
+14. Modificando um array
+15. Filtro de números positivos
+16. Filtro de números pares
+17. Filtro de nome por letra
+18. Filtro de usuários
+19. Lista de exercícios de Ordenação
+20. Filtrar maior string
+21. Filtrar maior número
 
 ###### tags: `backend` `exercícios` `lógica` `nodeJS`
